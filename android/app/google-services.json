@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565457114614",
+    "project_id": "com-ecommerce-app-ui",
+    "storage_bucket": "com-ecommerce-app-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565457114614:android:20b50f97cdae9b6b9f63d7",
+        "android_client_info": {
+          "package_name": "com.bike.ecommerce.ui.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565457114614-rdo3gsljgl2jucdmju4mqp6075a35ged.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAaKu3qLGZDBCRA6YLjqrQrE3nTL6C740"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565457114614-rdo3gsljgl2jucdmju4mqp6075a35ged.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

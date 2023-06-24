@@ -1,0 +1,48 @@
+name: ecommerce_app_ui
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  # state management and clean architecture
+  injectable: ^2.1.2
+  flutter_bloc: ^8.1.2
+  equatable: ^2.0.5
+  get_it: ^7.6.0
+  dartz: ^0.10.1
+  hydrated_bloc: ^9.1.2
+  path_provider: ^2.0.15
+  
+  # firebase
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.6.3
+
+  # UI
+  google_fonts: ^5.1.0
+  flutter_svg: ^2.0.7
+  pinput: ^2.2.31
+  carousel_slider: ^4.2.1
+  dots_indicator: ^3.0.0
+  flutter_keyboard_visibility: ^5.4.1
+  flutter_staggered_grid_view: ^0.6.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.5
+  injectable_generator:
+ 
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
